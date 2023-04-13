@@ -1,0 +1,43 @@
+{
+  "name": "hehongyuanlove/flarum-auth-wechat",
+  "description": "Allow users to log in with WeChat",
+  "version": "2.0.0",
+  "keywords": [
+    "flarum",
+    "authentication",
+    "wechat"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.0.0",
+    "laravel/helpers": "^v1.4.1",
+    "fof/components": "^1.0.0",
+    "nomiscz/oauth2-wechat": "^0.1.1"
+  },
+  "authors": [
+    {
+      "name": "Hehongyuanlove",
+      "email": "1016823618@qq.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Hehongyuanlove\\WeChatAuth\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "WeChat Login",
+      "icon": {
+        "name": "fab fa-weixin",
+        "backgroundColor": "#51c332",
+        "color": "#fff"
+      }
+    },
+    "suggest": {
+      "nomiscz/flarum-ext-auth-wechat": "Cannot be started simultaneously!"
+    }
+  }
+}
