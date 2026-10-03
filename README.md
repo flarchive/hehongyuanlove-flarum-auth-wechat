@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of hehongyuanlove/flarum-auth-wechat.** Not for installation: use [Packagist](https://packagist.org/packages/hehongyuanlove/flarum-auth-wechat) or the [upstream repository](https://github.com/Hehongyuanlove/flarum-ext-auth-wechat).
 
-**0** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/hehongyuanlove-flarum-auth-wechat/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/hehongyuanlove-flarum-auth-wechat/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2023-04-13 | `^1.0.0` | [Browse](https://github.com/flarchive/hehongyuanlove-flarum-auth-wechat/tree/archive/v2.0.0) |
 
 Catalog entry: [packages/hehongyuanlove-flarum-auth-wechat.json](https://github.com/flarchive/archive-index/blob/main/packages/hehongyuanlove-flarum-auth-wechat.json)
 
